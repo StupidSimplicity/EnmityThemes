@@ -1,10 +1,10 @@
 {
     "name": "RosiePink164",
-    "description": "Rosie v2 but wayy more pink :333",
-    "version": "1.9",
+    "description": "Rosie pink v2, but with sky!",
+    "version": "1.0",
     "authors": [{
-        "name": "Rosie<3",
-        "id": "581573474296791211"
+        "name": "simplyidiotic",
+        "id": "529113066651123713"
     }],
     "theme_color_map": {
         "CHAT_BACKGROUND":              [ "#2b2329", "#ffffff" ],
@@ -166,7 +166,7 @@
     },
     "background": {
         "blur": 0.1,
-        "url": "https://media.discordapp.net/attachments/1026554757948637305/1042919699626852362/rosiepink.png",
+        "url": "https://cdn.discordapp.com/attachments/529140589418119179/1202450383423930378/RosieSkies.png",
         "alpha": 1.0
     },
     "color": "#ff91ff"
